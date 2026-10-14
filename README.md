@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 "# Estimativa-de-altura-de-arvore" 
+=======
+# Estimativa-de-altura-de-arvore-por-meio-de-imagens-de-drone-com-sensor-LiDAR
+Projeto desenvolvido em Python para estimar a altura de árvores utilizando dados LiDAR e gerar uma visualização 3D interativa da vegetação. A altura estimada é exibida diretamente no terminal da IDE, permitindo analisar os resultados de forma prática. Desenvolvido para apresentação na Exposição de Cursos no shopping de Serra Talhada – PE.
+>>>>>>> 59a51d34715db4c3173f74fde73592ef4894c4ef
