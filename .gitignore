@@ -1,0 +1,5 @@
+.estimativa/
+__pycache__/
+**/__pycache__/
+*.laz
+*.las
