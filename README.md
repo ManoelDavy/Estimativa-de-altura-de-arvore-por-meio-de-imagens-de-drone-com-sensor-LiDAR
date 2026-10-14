@@ -51,7 +51,7 @@ O projeto foi desenvolvido para apresentação na **Exposição de Cursos no sho
 
 ## Dependências
 
-- **Python 3** — linguagem de programação utilizada no projeto.
+- **Python** — linguagem de programação utilizada no projeto.
 - **NumPy** — processamento e operações numéricas com arrays.
 - **Laspy** — leitura e processamento de arquivos de nuvens de pontos LiDAR (`.las` e `.laz`).
 - **Plotly** — criação de visualizações 3D interativas.
