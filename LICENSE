@@ -1,0 +1,44 @@
+# Licença de Uso e Atribuição
+
+**Projeto:** Estimativa da Altura de Árvores Utilizando LiDAR e Modelagem 3D  
+**Autor:** Manoel Davy Ramalho Pereira  
+**Ano:** 2026
+
+## 1. Concessão de uso
+
+O autor autoriza o uso, a reprodução, a modificação, a distribuição e a exploração comercial do código-fonte deste projeto, desde que respeitadas as condições estabelecidas nesta licença.
+
+## 2. Atribuição obrigatória
+
+Em trabalhos acadêmicos, artigos científicos, apresentações, publicações técnicas e projetos que utilizem, reproduzam ou adaptem partes substanciais do código deste projeto, o usuário deverá atribuir o crédito ao autor original.
+
+A atribuição deverá incluir, sempre que aplicável:
+
+- **Autor:** Manoel Davy Ramalho Pereira.
+- **Projeto:** Estimativa da Altura de Árvores Utilizando LiDAR e Modelagem 3D.
+- **Repositório original:** https://github.com/ManoelDavy/Estimativa-de-altura-de-arvore-por-meio-de-imagens-de-drone-com-sensor-LiDAR
+- **Data de acesso:** [Coloque aqui a data de acesso].
+
+## 3. Modificações e trabalhos derivados
+
+As modificações realizadas por terceiros deverão ser identificadas de maneira clara. O crédito ao autor original não implica que ele tenha desenvolvido, revisado ou endossado as modificações feitas por terceiros.
+
+## 4. Redistribuição
+
+Ao redistribuir cópias do código ou versões modificadas, o usuário deverá preservar este texto de licença e os avisos de direitos autorais aplicáveis.
+
+## 5. Direitos autorais e componentes de terceiros
+
+Os direitos autorais sobre o código original permanecem com seus respectivos titulares. Bibliotecas, conjuntos de dados, imagens e demais componentes de terceiros permanecem sujeitos às respectivas licenças e condições de uso.
+
+## 6. Ausência de garantia
+
+O projeto é fornecido "no estado em que se encontra", sem garantias expressas ou implícitas, na máxima extensão permitida pela legislação aplicável. O autor não garante a precisão dos resultados nem a adequação do software a uma finalidade específica.
+
+## 7. Legislação aplicável
+
+Esta licença deverá ser interpretada conforme a legislação aplicável, incluindo, quando pertinente, a legislação brasileira de proteção à propriedade intelectual de programas de computador, especialmente a Lei nº 9.609/1998.
+
+Caso alguma disposição seja considerada inválida ou inexequível, as demais disposições permanecerão aplicáveis na medida permitida pela legislação.
+
+A utilização do projeto fica condicionada ao cumprimento dos termos desta licença.
